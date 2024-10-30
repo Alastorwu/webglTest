@@ -1,0 +1,1216 @@
+[
+  {
+    "id": 1,
+    "refreshInterval": 10,
+    "refreshNum": 1,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "refreshInterval": 10,
+    "refreshNum": 1,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "refreshInterval": 10,
+    "refreshNum": 1,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "refreshInterval": 10,
+    "refreshNum": 1,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "refreshInterval": 10,
+    "refreshNum": 1,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 6,
+    "refreshInterval": 5,
+    "refreshNum": 1,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 7,
+    "refreshInterval": 5,
+    "refreshNum": 1,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 8,
+    "refreshInterval": 5,
+    "refreshNum": 1,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 9,
+    "refreshInterval": 5,
+    "refreshNum": 1,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 10,
+    "refreshInterval": 5,
+    "refreshNum": 1,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 11,
+    "refreshInterval": 1,
+    "refreshNum": 2,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 12,
+    "refreshInterval": 1,
+    "refreshNum": 2,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 13,
+    "refreshInterval": 1,
+    "refreshNum": 2,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 14,
+    "refreshInterval": 1,
+    "refreshNum": 2,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 15,
+    "refreshInterval": 1,
+    "refreshNum": 2,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 16,
+    "refreshInterval": 0.5,
+    "refreshNum": 2,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 17,
+    "refreshInterval": 0.4,
+    "refreshNum": 2,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 18,
+    "refreshInterval": 0.3,
+    "refreshNum": 2,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 19,
+    "refreshInterval": 0.2,
+    "refreshNum": 2,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 20,
+    "refreshInterval": 0.1,
+    "refreshNum": 2,
+    "roundTime": 30,
+    "monsterIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 21,
+    "refreshInterval": 0.1,
+    "refreshNum": 3,
+    "roundTime": 30,
+    "monsterIds": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 22,
+    "refreshInterval": 0.1,
+    "refreshNum": 3,
+    "roundTime": 30,
+    "monsterIds": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 23,
+    "refreshInterval": 0.1,
+    "refreshNum": 3,
+    "roundTime": 30,
+    "monsterIds": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 24,
+    "refreshInterval": 0.1,
+    "refreshNum": 3,
+    "roundTime": 30,
+    "monsterIds": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 25,
+    "refreshInterval": 0.1,
+    "refreshNum": 3,
+    "roundTime": 30,
+    "monsterIds": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 26,
+    "refreshInterval": 0.1,
+    "refreshNum": 3,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 27,
+    "refreshInterval": 0.1,
+    "refreshNum": 3,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 28,
+    "refreshInterval": 0.1,
+    "refreshNum": 3,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 29,
+    "refreshInterval": 0.1,
+    "refreshNum": 3,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 30,
+    "refreshInterval": 0.1,
+    "refreshNum": 3,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 31,
+    "refreshInterval": 0.1,
+    "refreshNum": 4,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 32,
+    "refreshInterval": 0.1,
+    "refreshNum": 5,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 33,
+    "refreshInterval": 0.1,
+    "refreshNum": 6,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 34,
+    "refreshInterval": 0.1,
+    "refreshNum": 7,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 35,
+    "refreshInterval": 0.1,
+    "refreshNum": 8,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 36,
+    "refreshInterval": 0.1,
+    "refreshNum": 9,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 37,
+    "refreshInterval": 0.1,
+    "refreshNum": 10,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 38,
+    "refreshInterval": 0.1,
+    "refreshNum": 11,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 39,
+    "refreshInterval": 0.1,
+    "refreshNum": 12,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 40,
+    "refreshInterval": 0.1,
+    "refreshNum": 13,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 41,
+    "refreshInterval": 0.1,
+    "refreshNum": 14,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 42,
+    "refreshInterval": 0.1,
+    "refreshNum": 15,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 43,
+    "refreshInterval": 0.1,
+    "refreshNum": 16,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 44,
+    "refreshInterval": 0.1,
+    "refreshNum": 17,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 45,
+    "refreshInterval": 0.1,
+    "refreshNum": 18,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 46,
+    "refreshInterval": 0.1,
+    "refreshNum": 19,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 47,
+    "refreshInterval": 0.1,
+    "refreshNum": 20,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 48,
+    "refreshInterval": 0.1,
+    "refreshNum": 21,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 49,
+    "refreshInterval": 0.1,
+    "refreshNum": 22,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 50,
+    "refreshInterval": 0.1,
+    "refreshNum": 23,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 51,
+    "refreshInterval": 0.1,
+    "refreshNum": 24,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 52,
+    "refreshInterval": 0.1,
+    "refreshNum": 25,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 53,
+    "refreshInterval": 0.1,
+    "refreshNum": 26,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 54,
+    "refreshInterval": 0.1,
+    "refreshNum": 27,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 55,
+    "refreshInterval": 0.1,
+    "refreshNum": 28,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 56,
+    "refreshInterval": 0.1,
+    "refreshNum": 29,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 57,
+    "refreshInterval": 0.1,
+    "refreshNum": 30,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 58,
+    "refreshInterval": 0.1,
+    "refreshNum": 31,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 59,
+    "refreshInterval": 0.1,
+    "refreshNum": 32,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 60,
+    "refreshInterval": 0.1,
+    "refreshNum": 33,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 61,
+    "refreshInterval": 0.1,
+    "refreshNum": 34,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 62,
+    "refreshInterval": 0.1,
+    "refreshNum": 35,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 63,
+    "refreshInterval": 0.1,
+    "refreshNum": 36,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 64,
+    "refreshInterval": 0.1,
+    "refreshNum": 37,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 65,
+    "refreshInterval": 0.1,
+    "refreshNum": 38,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 66,
+    "refreshInterval": 0.1,
+    "refreshNum": 39,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 67,
+    "refreshInterval": 0.1,
+    "refreshNum": 40,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 68,
+    "refreshInterval": 0.1,
+    "refreshNum": 41,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 69,
+    "refreshInterval": 0.1,
+    "refreshNum": 42,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 70,
+    "refreshInterval": 0.1,
+    "refreshNum": 43,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 71,
+    "refreshInterval": 0.1,
+    "refreshNum": 44,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 72,
+    "refreshInterval": 0.1,
+    "refreshNum": 45,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 73,
+    "refreshInterval": 0.1,
+    "refreshNum": 46,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 74,
+    "refreshInterval": 0.1,
+    "refreshNum": 47,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 75,
+    "refreshInterval": 0.1,
+    "refreshNum": 48,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 76,
+    "refreshInterval": 0.1,
+    "refreshNum": 49,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 77,
+    "refreshInterval": 0.1,
+    "refreshNum": 50,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 78,
+    "refreshInterval": 0.1,
+    "refreshNum": 51,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 79,
+    "refreshInterval": 0.1,
+    "refreshNum": 52,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 80,
+    "refreshInterval": 0.1,
+    "refreshNum": 53,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 81,
+    "refreshInterval": 0.1,
+    "refreshNum": 54,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 82,
+    "refreshInterval": 0.1,
+    "refreshNum": 55,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 83,
+    "refreshInterval": 0.1,
+    "refreshNum": 56,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 84,
+    "refreshInterval": 0.1,
+    "refreshNum": 57,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 85,
+    "refreshInterval": 0.1,
+    "refreshNum": 58,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 86,
+    "refreshInterval": 0.1,
+    "refreshNum": 59,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 87,
+    "refreshInterval": 0.1,
+    "refreshNum": 60,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 88,
+    "refreshInterval": 0.1,
+    "refreshNum": 61,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 89,
+    "refreshInterval": 0.1,
+    "refreshNum": 62,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 90,
+    "refreshInterval": 0.1,
+    "refreshNum": 63,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 91,
+    "refreshInterval": 0.1,
+    "refreshNum": 64,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 92,
+    "refreshInterval": 0.1,
+    "refreshNum": 65,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 93,
+    "refreshInterval": 0.1,
+    "refreshNum": 66,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 94,
+    "refreshInterval": 0.1,
+    "refreshNum": 67,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 95,
+    "refreshInterval": 0.1,
+    "refreshNum": 68,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 96,
+    "refreshInterval": 0.1,
+    "refreshNum": 69,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 97,
+    "refreshInterval": 0.1,
+    "refreshNum": 70,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 98,
+    "refreshInterval": 0.1,
+    "refreshNum": 71,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 99,
+    "refreshInterval": 0.1,
+    "refreshNum": 72,
+    "roundTime": 30,
+    "monsterIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

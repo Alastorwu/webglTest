@@ -1,0 +1,54 @@
+[
+  {
+    "id": 10001,
+    "MagicAttribute": 7,
+    "enName": "Fire",
+    "name": "火",
+    "MainSkills": [
+      100001
+    ],
+    "NormalSkills": [],
+    "modelPath": "Tower/Synthesis/FireballBase",
+    "EffectPath": "",
+    "iconPath": ""
+  },
+  {
+    "id": 10002,
+    "MagicAttribute": 8,
+    "enName": "Water",
+    "name": "水",
+    "MainSkills": [
+      100002
+    ],
+    "NormalSkills": [],
+    "modelPath": "Tower/Synthesis/WaterBallBase",
+    "EffectPath": "",
+    "iconPath": ""
+  },
+  {
+    "id": 10003,
+    "MagicAttribute": 6,
+    "enName": "steam",
+    "name": "蒸汽",
+    "MainSkills": [
+      100003
+    ],
+    "NormalSkills": [],
+    "modelPath": "Tower/Synthesis/StreamBallBase",
+    "EffectPath": "",
+    "iconPath": ""
+  },
+  {
+    "id": 10004,
+    "MagicAttribute": 4,
+    "enName": "wind",
+    "name": "风",
+    "MainSkills": [
+      100004
+    ],
+    "NormalSkills": [],
+    "modelPath": "Tower/Synthesis/WindBallBase",
+    "EffectPath": "",
+    "iconPath": ""
+  }
+]

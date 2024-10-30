@@ -1,0 +1,520 @@
+[
+  {
+    "id": 1,
+    "enName": "FireballLevel1",
+    "name": "火球lv1",
+    "magicList": [
+      7
+    ],
+    "mainMagic": 7,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 5,
+    "description": "对目标释放火球，{0}",
+    "baseAttackInterval": 1,
+    "attackType": 1,
+    "attackBuffs": [],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 2,
+    "enName": "FireballLevel2",
+    "name": "火球lv2",
+    "magicList": [
+      7,
+      7
+    ],
+    "mainMagic": 7,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 5,
+    "description": "对目标释放火球，{0}",
+    "baseAttackInterval": 1,
+    "attackType": 1,
+    "attackBuffs": [],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 3,
+    "enName": "Flamestorm",
+    "name": "火焰风暴",
+    "magicList": [
+      7,
+      4
+    ],
+    "mainMagic": 7,
+    "arrage": 1,
+    "baseAttackArrange": 1,
+    "baseHp": 5,
+    "description": "对范围内所有敌人{0}",
+    "baseAttackInterval": 2,
+    "attackType": 4,
+    "attackBuffs": [],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 4,
+    "enName": "",
+    "name": "烈焰风暴",
+    "magicList": [
+      7,
+      7,
+      4,
+      4
+    ],
+    "mainMagic": 7,
+    "arrage": 1,
+    "baseAttackArrange": 2,
+    "baseHp": 5,
+    "description": "对范围内所有敌人{0}，并施加{1}",
+    "baseAttackInterval": 2,
+    "attackType": 4,
+    "attackBuffs": [
+      2
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 5,
+    "enName": "",
+    "name": "爆破",
+    "magicList": [
+      7,
+      8,
+      5
+    ],
+    "mainMagic": 7,
+    "arrage": 1,
+    "baseAttackArrange": 2,
+    "baseHp": 5,
+    "description": "对范围内所有敌人{0}，并且施加{1}",
+    "baseAttackInterval": 1,
+    "attackType": 4,
+    "attackBuffs": [
+      2
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 6,
+    "enName": "WaterBall",
+    "name": "水球",
+    "magicList": [
+      8
+    ],
+    "mainMagic": 8,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 5,
+    "description": "对目标造成{0}",
+    "baseAttackInterval": 1,
+    "attackType": 1,
+    "attackBuffs": [
+      3
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 7,
+    "enName": "WaterBlade",
+    "name": "水刀",
+    "magicList": [
+      8,
+      8
+    ],
+    "mainMagic": 8,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 5,
+    "description": "对目标{0}并附加{1}",
+    "baseAttackInterval": 1,
+    "attackType": 1,
+    "attackBuffs": [
+      3
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 8,
+    "enName": "Steam",
+    "name": "蒸汽",
+    "magicList": [
+      8,
+      7
+    ],
+    "mainMagic": 8,
+    "arrage": 1,
+    "baseAttackArrange": 2,
+    "baseHp": 5,
+    "description": "朝目标喷射蒸汽，对直线范围内的所有敌人造成{0}并附加{1}",
+    "baseAttackInterval": 1,
+    "attackType": 1,
+    "attackBuffs": [
+      3
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 9,
+    "enName": "LightningArrowLevel1",
+    "name": "闪电箭lv1",
+    "magicList": [
+      5
+    ],
+    "mainMagic": 5,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 5,
+    "description": "对目标释放闪电箭，{0}",
+    "baseAttackInterval": 1,
+    "attackType": 1,
+    "attackBuffs": [],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 10,
+    "enName": "",
+    "name": "闪电链",
+    "magicList": [
+      5,
+      5
+    ],
+    "mainMagic": 5,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 5,
+    "description": "对目标释放{0}的闪电链，并且会向目标最近的单位蔓延攻击2次",
+    "baseAttackInterval": 1,
+    "attackType": 5,
+    "attackBuffs": [],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 11,
+    "enName": "",
+    "name": "冰霜闪电链",
+    "magicList": [
+      5,
+      5,
+      9
+    ],
+    "mainMagic": 5,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 5,
+    "description": "对目标释放{0}的闪电链，并且会向目标最近的单位蔓延攻击2次，并且施加{1}",
+    "baseAttackInterval": 1,
+    "attackType": 5,
+    "attackBuffs": [
+      5
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 12,
+    "enName": "",
+    "name": "火焰闪电链",
+    "magicList": [
+      5,
+      5,
+      7
+    ],
+    "mainMagic": 5,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 5,
+    "description": "对目标释放{0}的闪电链，并且会向目标最近的单位蔓延攻击2次，并且施加{1}",
+    "baseAttackInterval": 1,
+    "attackType": 5,
+    "attackBuffs": [
+      2
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 13,
+    "enName": "HeavenlyThunder",
+    "name": "天雷",
+    "magicList": [
+      8,
+      7,
+      5,
+      5,
+      9
+    ],
+    "mainMagic": 5,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 5,
+    "description": "对目标释放{0}的闪电，并且{1}，并且对所有目标附加{1}",
+    "baseAttackInterval": 1,
+    "attackType": 4,
+    "attackBuffs": [
+      1
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 14,
+    "enName": "Cyclone",
+    "name": "旋风",
+    "magicList": [
+      4
+    ],
+    "mainMagic": 4,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 5,
+    "description": "范围内的所有元素塔的攻击间隔减少30%，不可叠加",
+    "baseAttackInterval": 0,
+    "attackType": 3,
+    "attackBuffs": [],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 15,
+    "enName": "WindBlade",
+    "name": "风刃",
+    "magicList": [
+      4,
+      4
+    ],
+    "mainMagic": 4,
+    "arrage": 1,
+    "baseAttackArrange": 2,
+    "baseHp": 5,
+    "description": "对目标释放一道{0}的风刃，对路径上的所有敌人造成伤害",
+    "baseAttackInterval": 1,
+    "attackType": 2,
+    "attackBuffs": [],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 16,
+    "enName": "",
+    "name": "冰旋风",
+    "magicList": [
+      9,
+      4
+    ],
+    "mainMagic": 9,
+    "arrage": 1,
+    "baseAttackArrange": 2,
+    "baseHp": 5,
+    "description": "范围内的所有元素塔的攻击间隔减少30%，不可叠加；对范围内的敌人施加{0}",
+    "baseAttackInterval": 1,
+    "attackType": 3,
+    "attackBuffs": [
+      5
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 17,
+    "enName": "",
+    "name": "冰晶",
+    "magicList": [
+      9,
+      9,
+      8,
+      8
+    ],
+    "mainMagic": 9,
+    "arrage": 1,
+    "baseAttackArrange": 2,
+    "baseHp": 5,
+    "description": "在目标单位脚下召唤一道冰柱，{0}，{1}，并对所有受到伤害的敌人造成{2}",
+    "baseAttackInterval": 1,
+    "attackType": 4,
+    "attackBuffs": [
+      5
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 18,
+    "enName": "Snowball",
+    "name": "雪球",
+    "magicList": [
+      9
+    ],
+    "mainMagic": 9,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 5,
+    "description": "对目标造成{0}",
+    "baseAttackInterval": 1,
+    "attackType": 1,
+    "attackBuffs": [
+      5
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 19,
+    "enName": "IceSpike",
+    "name": "冰锥",
+    "magicList": [
+      8,
+      9
+    ],
+    "mainMagic": 9,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 5,
+    "description": "对目标释放{0}的冰锥，对攻击到的敌人造成{1}",
+    "baseAttackInterval": 1,
+    "attackType": 2,
+    "attackBuffs": [
+      5
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 20,
+    "enName": "Claylump",
+    "name": "土块",
+    "magicList": [
+      2
+    ],
+    "mainMagic": 2,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 100,
+    "description": "嘲讽攻击范围内的所有敌方单位",
+    "baseAttackInterval": 1,
+    "attackType": 0,
+    "attackBuffs": [],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 21,
+    "enName": "LargeClayLump",
+    "name": "大土块",
+    "magicList": [
+      2,
+      2
+    ],
+    "mainMagic": 2,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 200,
+    "description": "嘲讽攻击范围内的所有敌方单位",
+    "baseAttackInterval": 1,
+    "attackType": 0,
+    "attackBuffs": [],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 22,
+    "enName": "RockLump",
+    "name": "岩石块",
+    "magicList": [
+      2,
+      2,
+      8,
+      7
+    ],
+    "mainMagic": 2,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 500,
+    "description": "嘲讽攻击范围内的所有敌方单位",
+    "baseAttackInterval": 1,
+    "attackType": 0,
+    "attackBuffs": [],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 23,
+    "enName": "",
+    "name": "火山",
+    "magicList": [
+      2,
+      2,
+      7,
+      7
+    ],
+    "mainMagic": 7,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 500,
+    "description": "嘲讽攻击范围内的所有敌方单位,并且受到攻击时对攻击者施加着火",
+    "baseAttackInterval": 1,
+    "attackType": 0,
+    "attackBuffs": [
+      2
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  },
+  {
+    "id": 24,
+    "enName": "",
+    "name": "雪山",
+    "magicList": [
+      2,
+      2,
+      9,
+      9
+    ],
+    "mainMagic": 9,
+    "arrage": 1,
+    "baseAttackArrange": 3,
+    "baseHp": 500,
+    "description": "嘲讽攻击范围内的所有敌方单位,并且受到攻击时对攻击者施加减速(冰)",
+    "baseAttackInterval": 1,
+    "attackType": 0,
+    "attackBuffs": [
+      5
+    ],
+    "modelPath": "Tower/Fireball",
+    "iconPath": "",
+    "bulletPath": ""
+  }
+]

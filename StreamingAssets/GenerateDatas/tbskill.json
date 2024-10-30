@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10001,
+    "enName": "Fireball",
+    "name": "火焰喷射",
+    "AttackArrange": 3,
+    "Damage": 10,
+    "baseAttackInterval": 1,
+    "DamageType": 2,
+    "attackType": 3,
+    "attackBuffs": [
+      1001
+    ],
+    "SKillParam": {
+      "$type": "AOEBeans",
+      "NormalParam": 5,
+      "KeepTime": 1,
+      "Size": 2
+    },
+    "AttackPath": "Tower/Attack/FireAttack",
+    "description": ""
+  },
+  {
+    "id": 10002,
+    "enName": "WaterBall",
+    "name": "水潮",
+    "AttackArrange": 3,
+    "Damage": 10,
+    "baseAttackInterval": 1,
+    "DamageType": 2,
+    "attackType": 3,
+    "attackBuffs": [
+      1002
+    ],
+    "SKillParam": {
+      "$type": "AOEBeans",
+      "NormalParam": 5,
+      "KeepTime": 2,
+      "Size": 3
+    },
+    "AttackPath": "Tower/Attack/RainStorm",
+    "description": ""
+  },
+  {
+    "id": 10003,
+    "enName": "SteamBall",
+    "name": "蒸汽喷射",
+    "AttackArrange": 5,
+    "Damage": 100,
+    "baseAttackInterval": 1,
+    "DamageType": 2,
+    "attackType": 3,
+    "attackBuffs": [
+      1001
+    ],
+    "SKillParam": {
+      "$type": "AOEBeans",
+      "NormalParam": 5,
+      "KeepTime": 2,
+      "Size": 3
+    },
+    "AttackPath": "Tower/Attack/FireAttack",
+    "description": ""
+  },
+  {
+    "id": 10004,
+    "enName": "WindBall",
+    "name": "飓风",
+    "AttackArrange": 3,
+    "Damage": 10,
+    "baseAttackInterval": 1,
+    "DamageType": 2,
+    "attackType": 1,
+    "attackBuffs": [],
+    "SKillParam": {
+      "$type": "TrackBeans",
+      "NormalParam": 5,
+      "KeepTime": 3,
+      "Size": 1
+    },
+    "AttackPath": "Tower/Attack/WindAttack",
+    "description": ""
+  },
+  {
+    "id": 10005,
+    "enName": "Explosion",
+    "name": "爆破",
+    "AttackArrange": 5,
+    "Damage": 3,
+    "baseAttackInterval": 1,
+    "DamageType": 2,
+    "attackType": 3,
+    "attackBuffs": [],
+    "SKillParam": {
+      "$type": "AOEBeans",
+      "NormalParam": 5,
+      "KeepTime": 1,
+      "Size": 1
+    },
+    "AttackPath": "Tower/Attack/ExplosionFireballSharpFire",
+    "description": ""
+  },
+  {
+    "id": 10006,
+    "enName": "Fireball",
+    "name": "冰锥",
+    "AttackArrange": 3,
+    "Damage": 20,
+    "baseAttackInterval": 1,
+    "DamageType": 2,
+    "attackType": 3,
+    "attackBuffs": [],
+    "SKillParam": {
+      "$type": "AOEBeans",
+      "NormalParam": 5,
+      "KeepTime": 1,
+      "Size": 2
+    },
+    "AttackPath": "Tower/Attack/IceCrystalAttack",
+    "description": ""
+  },
+  {
+    "id": 10007,
+    "enName": "Stream",
+    "name": "爆破",
+    "AttackArrange": 5,
+    "Damage": 3,
+    "baseAttackInterval": 1,
+    "DamageType": 2,
+    "attackType": 3,
+    "attackBuffs": [],
+    "SKillParam": {
+      "$type": "AOEBeans",
+      "NormalParam": 5,
+      "KeepTime": 5,
+      "Size": 1
+    },
+    "AttackPath": "Tower/Attack/StreamAttack",
+    "description": ""
+  },
+  {
+    "id": 10008,
+    "enName": "SnowBall",
+    "name": "下雪",
+    "AttackArrange": 3,
+    "Damage": 10,
+    "baseAttackInterval": 1,
+    "DamageType": 2,
+    "attackType": 3,
+    "attackBuffs": [
+      1002
+    ],
+    "SKillParam": {
+      "$type": "AOEBeans",
+      "NormalParam": 5,
+      "KeepTime": 2,
+      "Size": 3
+    },
+    "AttackPath": "Tower/Attack/SnowStorm",
+    "description": ""
+  }
+]

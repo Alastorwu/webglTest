@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1001",
+    "enName": "CombustionLV1",
+    "name": "着火lv1",
+    "magicType": 7,
+    "defaultsecond": 5,
+    "descriptionVal": [
+      1
+    ],
+    "description": "每秒受到1点火伤害，会和潮湿互相抵消"
+  },
+  {
+    "id": "1002",
+    "enName": "Dampness",
+    "name": "潮湿",
+    "magicType": 8,
+    "defaultsecond": 5,
+    "descriptionVal": [],
+    "description": "麻痹无需判定必定生效，受到冰属性效果则合成为冻结;潮湿状态存在时无法受到火属性buff,受到雷属性攻击则造成1.5倍伤害"
+  },
+  {
+    "id": "1005",
+    "enName": "StaticElectricity",
+    "name": "静电",
+    "magicType": 5,
+    "defaultsecond": 3,
+    "descriptionVal": [
+      1,
+      0.5,
+      0.5
+    ],
+    "description": "每1秒有50%几率无法移动0.5s"
+  },
+  {
+    "id": "1006",
+    "enName": "Freezing",
+    "name": "冻结",
+    "magicType": 9,
+    "defaultsecond": 1,
+    "descriptionVal": [
+      2
+    ],
+    "description": "无法移动，受到物理伤害+2，冻结状态无法受到任何雷属性的影响"
+  },
+  {
+    "id": "1007",
+    "enName": "DecelerateIceLV1",
+    "name": "减速lv1",
+    "magicType": 9,
+    "defaultsecond": 3,
+    "descriptionVal": [],
+    "description": "移动速度降低30%"
+  },
+  {
+    "id": "1008",
+    "enName": "Dizziness",
+    "name": "眩晕",
+    "magicType": 0,
+    "defaultsecond": 1,
+    "descriptionVal": [],
+    "description": "无法移动"
+  }
+]
